@@ -18,6 +18,10 @@ A simple weather app created in python with a weather API
 
 
 
+[+] Api key expired . 😕 11th of july 2023 . make sure to update with fresh and working key 🔑 👌 
+
+
+
 
 
 
